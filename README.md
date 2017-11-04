@@ -5,7 +5,7 @@ Feel free to follow along in this notebook, or download it and run it yourself. 
 
 #### clone the repository
 
-#### download pretraine google word vectors
+#### download pretrained google word vectors
 http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
 
 #### download pretrained char-rnn for Yelp
