@@ -1,0 +1,29 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+keras = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+nltk = "*"
+jupyter = "*"
+jupyter-tensorboard = "*"
+tensorflow = "*"
+gensim = "*"
+lime = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
