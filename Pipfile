@@ -18,6 +18,7 @@ jupyter-tensorboard = "*"
 tensorflow = "*"
 gensim = "*"
 lime = "*"
+"h5py" = "*"
 
 
 [dev-packages]
