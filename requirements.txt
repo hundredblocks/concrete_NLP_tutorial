@@ -1,0 +1,9 @@
+keras
+tensorflow
+nltk
+pandas
+numpy
+matplotlib
+umap-learn
+gensim
+lime
