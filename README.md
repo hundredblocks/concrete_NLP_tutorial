@@ -6,7 +6,8 @@ Feel free to follow along in this notebook, or download it and run it yourself. 
 #### clone the repository
 
 #### download pretrained google word vectors
-http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+
+Run `python -m gensim.downloader --download word2vec-google-news-300` or follow the instructions in the gensim documentation.
 
 #### download pretrained char-rnn for Yelp
 `curl -O https://s3.amazonaws.com/yelp-weights-files/Sep-26-all-00-0.7280.hdf5`
